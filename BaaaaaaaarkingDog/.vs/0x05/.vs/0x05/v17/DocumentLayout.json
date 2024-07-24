@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Git\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\",
+  "WorkspaceRootPath": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92D362E2-1545-4423-AAC8-2CB4E15E2EF5}|Project1\\Project1.vcxproj|C:\\Git\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\10773.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{92D362E2-1545-4423-AAC8-2CB4E15E2EF5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\10773.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{92D362E2-1545-4423-AAC8-2CB4E15E2EF5}|Project1\\Project1.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\1874.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D362E2-1545-4423-AAC8-2CB4E15E2EF5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1874.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "10773.cpp",
-              "DocumentMoniker": "C:\\Git\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\10773.cpp",
-              "RelativeDocumentMoniker": "Project1\\10773.cpp",
-              "ToolTip": "C:\\Git\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\10773.cpp",
-              "RelativeToolTip": "Project1\\10773.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "1874.cpp",
+              "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\1874.cpp",
+              "RelativeDocumentMoniker": "Project1\\1874.cpp",
+              "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\1874.cpp",
+              "RelativeToolTip": "Project1\\1874.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-22T12:58:46.252Z",
+              "WhenOpened": "2024-07-24T06:21:51.767Z",
               "EditorCaption": ""
             }
           ]
