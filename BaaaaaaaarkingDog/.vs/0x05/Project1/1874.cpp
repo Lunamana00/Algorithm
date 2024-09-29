@@ -11,6 +11,7 @@ int main() {
     ios::sync_with_stdio(0);
     cin.tie(0);
 
+<<<<<<< Updated upstream
     stack<int> s1;
     vector<int> v;
     vector<char> v2;
@@ -52,4 +53,35 @@ int main() {
             cout << x << '\n';
         }
     }
+=======
+    stack<int> s1,s2;
+
+    int n,x,def = 1;
+    cin >> n;
+
+    while (n--) {
+        cin >> x;
+        s1.push(x);
+    }
+    while (!(s1.empty())) {
+        cout << s1.top();
+        s1.pop();
+    }
+    /*
+    while (!(s1.empty())) {
+        
+        if (s2.top() == s1.top()&&!(s2.empty())) {
+            s1.pop();
+            s2.pop();
+            cout << '-';
+        }
+        else {
+            s2.push(def);
+            def++;
+            cout << '+';
+        }
+
+    }
+    */
+>>>>>>> Stashed changes
 }

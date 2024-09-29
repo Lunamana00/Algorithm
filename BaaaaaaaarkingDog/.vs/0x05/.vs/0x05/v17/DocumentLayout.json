@@ -3,8 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{92D362E2-1545-4423-AAC8-2CB4E15E2EF5}|Project1\\Project1.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\2493.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{92D362E2-1545-4423-AAC8-2CB4E15E2EF5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\2493.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+=======
+      "AbsoluteMoniker": "D:0:0:{92D362E2-1545-4423-AAC8-2CB4E15E2EF5}|Project1\\Project1.vcxproj|C:\\Git\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\1874.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92D362E2-1545-4423-AAC8-2CB4E15E2EF5}|Project1\\Project1.vcxproj|solutionrelative:Project1\\1874.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Git\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\10828.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1\\10828.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -14,10 +23,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 0,
               "Title": "2493.cpp",
               "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\2493.cpp",
@@ -27,6 +37,30 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-24T10:40:16.992Z",
+=======
+              "DocumentIndex": 1,
+              "Title": "10828.cpp",
+              "DocumentMoniker": "C:\\Git\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\10828.cpp",
+              "RelativeDocumentMoniker": "Project1\\10828.cpp",
+              "ToolTip": "C:\\Git\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\10828.cpp",
+              "RelativeToolTip": "Project1\\10828.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T13:15:33.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1874.cpp",
+              "DocumentMoniker": "C:\\Git\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\1874.cpp",
+              "RelativeDocumentMoniker": "Project1\\1874.cpp",
+              "ToolTip": "C:\\Git\\Algorithm\\BaaaaaaaarkingDog\\.vs\\0x05\\Project1\\1874.cpp",
+              "RelativeToolTip": "Project1\\1874.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T13:15:10.733Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             }
           ]

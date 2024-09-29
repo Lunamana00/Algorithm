@@ -15,7 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
     <ClCompile Include="2493.cpp">
+=======
+    <ClCompile Include="1874.cpp">
+>>>>>>> Stashed changes
       <Filter>리소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
