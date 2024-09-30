@@ -26,46 +26,31 @@ bool mazeExplorer(char map[][MAZE_SIZE], location entryPoint, location exitPoint
 
     location pos = entryPoint;
 
-    tempStack.push(pos);
-
     while (true) {
         location pos_arr[4];
 
+        if (tempStack.isEmpty()) {
+            return 0;
+        }
+        if (pos.col == exitPoint.col && pos.row == exitPoint.row) {
+            return 1;
+        }
         pos = tempStack.pop();
+        printLocation(pos);
 
-        pos_arr[0] = location(pos.row - 1, pos.col);
-        pos_arr[1] = location(pos.row, pos.col + 1);
-        pos_arr[2] = location(pos.row + 1, pos.col);
-        pos_arr[3] = location(pos.row, pos.col - 1);
+        map[pos.row][pos.col] = '.';
+        pos_arr[3] = location(pos.row - 1, pos.col);
+        pos_arr[2] = location(pos.row, pos.col + 1);
+        pos_arr[1] = location(pos.row + 1, pos.col);
+        pos_arr[0] = location(pos.row, pos.col - 1);
 
         for (int i = 0; i < 4; i++) {
             if (pos_arr[i].col >= 0 && pos_arr[i].col <= MAZE_SIZE - 1 && pos_arr[i].row >= 0 && pos_arr[i].row <= MAZE_SIZE - 1) {
-                if (map[pos_arr[i].row][pos_arr[i].col]!=1) {
+                if (map[pos_arr[i].row][pos_arr[i].col] == '0') {
+                    tempStack.push(pos_arr[i]);
+                    cout << '{' << pos_arr[i].row << "}{" << pos_arr[i].col << "}\n";
                 }
             }
         }
-        
-
-
     }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 }
