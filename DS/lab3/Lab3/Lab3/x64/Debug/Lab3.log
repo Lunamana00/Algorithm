@@ -1,0 +1,20 @@
+﻿  Lab03_3.cpp
+C:\Users\kth00\Documents\GitHub\Algorithm\DS\lab3\Lab03-3\QueueType.h(123,12): warning C4305: '=': '__int64'에서 'int'(으)로 잘립니다.
+  (소스 파일 '../Lab03-3/Lab03_3.cpp'을(를) 컴파일하는 중)
+      C:\Users\kth00\Documents\GitHub\Algorithm\DS\lab3\Lab03-3\QueueType.h(123,12):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          C:\Users\kth00\Documents\GitHub\Algorithm\DS\lab3\Lab03-3\Lab03_3.cpp(15,21):
+          컴파일되는 클래스 템플릿 인스턴스화 'QueueType<task>'에 대한 참조를 확인하세요.
+          C:\Users\kth00\Documents\GitHub\Algorithm\DS\lab3\Lab03-3\QueueType.h(100,59):
+          클래스 템플릿 멤버 함수 'bool QueueType<task>::priority_dequeue(ItemType &)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              ItemType=task
+          ]
+              C:\Users\kth00\Documents\GitHub\Algorithm\DS\lab3\Lab03-3\Lab03_3.cpp(30,5):
+              'main'에서 'QueueType<task>::priority_dequeue'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Users\kth00\Documents\GitHub\Algorithm\DS\lab3\Lab03-3\QueueType.h(123,12): warning C4309: '=': 상수 값이 잘립니다.
+  (소스 파일 '../Lab03-3/Lab03_3.cpp'을(를) 컴파일하는 중)
+  
+  Lab3.vcxproj -> C:\Users\kth00\Documents\GitHub\Algorithm\DS\lab3\Lab3\x64\Debug\Lab3.exe
