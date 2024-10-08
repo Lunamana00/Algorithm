@@ -48,7 +48,6 @@ bool mazeExplorer(char map[][MAZE_SIZE], location entryPoint, location exitPoint
             if (pos_arr[i].col >= 0 && pos_arr[i].col <= MAZE_SIZE - 1 && pos_arr[i].row >= 0 && pos_arr[i].row <= MAZE_SIZE - 1) {
                 if (map[pos_arr[i].row][pos_arr[i].col] == '0') {
                     tempStack.push(pos_arr[i]);
-                    cout << '{' << pos_arr[i].row << "}{" << pos_arr[i].col << "}\n";
                 }
             }
         }

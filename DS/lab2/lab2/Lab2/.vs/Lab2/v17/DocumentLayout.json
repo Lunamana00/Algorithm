@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Git\\Algorithm\\DS\\lab2\\lab2\\Lab2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0DDB6065-FC4F-4DDB-987A-4286B14DF883}|Lab2.vcxproj|C:\\Git\\Algorithm\\DS\\lab2\\lab2\\Lab02-3\\MazeExplorer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DDB6065-FC4F-4DDB-987A-4286B14DF883}|Lab2.vcxproj|C:\\Git\\Algorithm\\DS\\lab2\\lab2\\Lab02-3\\Lab02_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,6 +21,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MazeExplorer.cpp",
+              "DocumentMoniker": "C:\\Git\\Algorithm\\DS\\lab2\\lab2\\Lab02-3\\MazeExplorer.cpp",
+              "RelativeDocumentMoniker": "..\\Lab02-3\\MazeExplorer.cpp",
+              "ToolTip": "C:\\Git\\Algorithm\\DS\\lab2\\lab2\\Lab02-3\\MazeExplorer.cpp",
+              "RelativeToolTip": "..\\Lab02-3\\MazeExplorer.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T02:39:31.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Lab02_3.cpp",
               "DocumentMoniker": "C:\\Git\\Algorithm\\DS\\lab2\\lab2\\Lab02-3\\Lab02_3.cpp",
               "RelativeDocumentMoniker": "..\\Lab02-3\\Lab02_3.cpp",
