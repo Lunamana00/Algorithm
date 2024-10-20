@@ -83,10 +83,10 @@ void QueueType<ItemType>::rotateFirstItem()
     if(isEmpty()){
         return;
     }
-
-    enqueue(dequeue());
-    return;
-
+    cout << front << ' ' << rear << '\n';
+    rear=(rear + 1) % maxQueue;
+    front = (front + 1) % maxQueue;
+    cout << front << ' ' << rear << '\n';
 }
 
 template<class ItemType>

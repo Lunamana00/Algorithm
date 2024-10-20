@@ -111,38 +111,16 @@ bool QueueType<ItemType>::priority_dequeue(ItemType& ret) {
     //
     // For details, check the PDF slides!
 
-    int _min;
-    string _pv;
-    task _rt;
-
-    int _datalen = rear - front;
-    if (_datalen < 0) {
-        _datalen = _datalen+maxQueue;
-    }
-
-    _min = 9999999999999999;
-
-    for (int i = 0; i < _datalen ; i++) {
-        dequeue(ret);
-        if (ret.priority < _min) {
-            _min = ret.priority;
+    int pTemp = front;
+    int min = 99999999999999;
+    while (pTemp != rear) {
+        if (min > data[pTemp]) {
+            min = data[pTemp];
         }
-        enqueue(ret);
+        pTemp = (pTemp + 1) / maxQueue;
     }
+    ret = min;
 
-    for (int i = 0; i < _datalen ; i++) {
-        dequeue(ret);
-        if(ret.priority > _min){
-            enqueue(ret);
-        }
-        else {
-            _rt = ret;
-        }
-        
-    }
-
-    ret = _rt;
-    
     return true;
 }
 

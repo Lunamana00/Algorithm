@@ -146,22 +146,25 @@ int SortedType<ItemType>::BinarySearch(ItemType item){
     // For example, suppose that test_sorted_list = [ 1, 3, 4, 10, 12, 14]
     // BinarySearch(4) will return (2)  -- (the index of "4" is [2])
     // BinarySearch(5) will return (-1) -- ("5" does not exist)
-    int p_begin = 0;
-    int p_end = length-1;
-    int p_mid;
+    
+    int pBegin = 0;
+    int pMid;
+    int pEnd = length - 1;
 
-    while (p_begin <= p_end) {
-        p_mid = (p_begin + p_end) / 2;
-        if (data[p_mid] == item) {
-            ret = p_mid;
+    while (pBegin <= pEnd) {
+        cout << pBegin << " " << pEnd << "\n";
+        pMid = (pBegin + pEnd )/ 2;
+        if (data[pMid] == item) {
+            ret = pMid;
             break;
         }
-        else if (data[p_mid] < item) {
-                p_begin = p_mid+1;
+        else if (data[pMid] < item) {
+            pBegin = pMid + 1;
         }
-        else {
-            p_end = p_mid - 1;
+        else if (data[pMid] > item) {
+            pEnd = pMid - 1;
         }
+
     }
     return ret;
 }

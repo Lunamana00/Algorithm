@@ -1,12 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab4\\lab4\\Lab4\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC83D03-0907-4A9E-9241-A7D57F7EE5F0}|Lab4.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab4\\lab4\\Lab04-1\\StackType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackType.cpp",
+              "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab4\\lab4\\Lab04-1\\StackType.cpp",
+              "RelativeDocumentMoniker": "..\\Lab04-1\\StackType.cpp",
+              "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab4\\lab4\\Lab04-1\\StackType.cpp",
+              "RelativeToolTip": "..\\Lab04-1\\StackType.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T15:39:55.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
