@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03EDDA4E-E4E8-4ECF-8F6D-B2D6ABE5EFC6}|cpp\\cpp.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{03EDDA4E-E4E8-4ECF-8F6D-B2D6ABE5EFC6}|cpp\\cpp.vcxproj|solutionrelative:cpp\\\uC18C\uC2A4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{03EDDA4E-E4E8-4ECF-8F6D-B2D6ABE5EFC6}|cpp\\cpp.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\6198.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03EDDA4E-E4E8-4ECF-8F6D-B2D6ABE5EFC6}|cpp\\cpp.vcxproj|solutionrelative:cpp\\6198.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EDDA4E-E4E8-4ECF-8F6D-B2D6ABE5EFC6}|cpp\\cpp.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03EDDA4E-E4E8-4ECF-8F6D-B2D6ABE5EFC6}|cpp\\cpp.vcxproj|solutionrelative:cpp\\Base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\uC18C\uC2A4.cpp",
-              "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\\uC18C\uC2A4.cpp",
-              "RelativeDocumentMoniker": "cpp\\\uC18C\uC2A4.cpp",
-              "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\\uC18C\uC2A4.cpp",
-              "RelativeToolTip": "cpp\\\uC18C\uC2A4.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Title": "6198.cpp",
+              "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\6198.cpp",
+              "RelativeDocumentMoniker": "cpp\\6198.cpp",
+              "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\6198.cpp*",
+              "RelativeToolTip": "cpp\\6198.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-26T11:41:46.39Z",
+              "WhenOpened": "2024-10-26T18:26:59.034Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Base.cpp",
+              "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\Base.cpp",
+              "RelativeDocumentMoniker": "cpp\\Base.cpp",
+              "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\Base.cpp",
+              "RelativeToolTip": "cpp\\Base.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T17:08:49.429Z"
             }
           ]
         }
