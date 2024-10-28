@@ -18,5 +18,8 @@
     <ClCompile Include="Base.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10845.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
