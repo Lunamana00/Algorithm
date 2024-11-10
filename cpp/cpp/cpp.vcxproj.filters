@@ -18,7 +18,10 @@
     <ClCompile Include="Base.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="10845.cpp">
+    <ClCompile Include="9095.cpp">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17298.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
