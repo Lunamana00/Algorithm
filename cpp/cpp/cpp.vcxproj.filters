@@ -21,10 +21,7 @@
     <ClCompile Include="9095.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="17298.cpp">
-      <Filter>리소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="18258.cpp">
+    <ClCompile Include="2164.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

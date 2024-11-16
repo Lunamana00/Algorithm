@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03EDDA4E-E4E8-4ECF-8F6D-B2D6ABE5EFC6}|cpp\\cpp.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\18258.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{03EDDA4E-E4E8-4ECF-8F6D-B2D6ABE5EFC6}|cpp\\cpp.vcxproj|solutionrelative:cpp\\18258.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03EDDA4E-E4E8-4ECF-8F6D-B2D6ABE5EFC6}|cpp\\cpp.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\17298.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{03EDDA4E-E4E8-4ECF-8F6D-B2D6ABE5EFC6}|cpp\\cpp.vcxproj|solutionrelative:cpp\\17298.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{03EDDA4E-E4E8-4ECF-8F6D-B2D6ABE5EFC6}|cpp\\cpp.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\2164.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03EDDA4E-E4E8-4ECF-8F6D-B2D6ABE5EFC6}|cpp\\cpp.vcxproj|solutionrelative:cpp\\2164.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03EDDA4E-E4E8-4ECF-8F6D-B2D6ABE5EFC6}|cpp\\cpp.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\9095.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,45 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "18258.cpp",
-              "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\18258.cpp",
-              "RelativeDocumentMoniker": "cpp\\18258.cpp",
-              "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\18258.cpp",
-              "RelativeToolTip": "cpp\\18258.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Title": "2164.cpp",
+              "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\2164.cpp",
+              "RelativeDocumentMoniker": "cpp\\2164.cpp",
+              "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\2164.cpp",
+              "RelativeToolTip": "cpp\\2164.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-16T09:22:02.669Z",
+              "WhenOpened": "2024-11-16T09:26:48.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "17298.cpp",
-              "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\17298.cpp",
-              "RelativeDocumentMoniker": "cpp\\17298.cpp",
-              "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\17298.cpp",
-              "RelativeToolTip": "cpp\\17298.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-10T08:01:02.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "9095.cpp",
               "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\9095.cpp",
               "RelativeDocumentMoniker": "cpp\\9095.cpp",
               "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\9095.cpp",
               "RelativeToolTip": "cpp\\9095.cpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-10T07:50:20.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Base.cpp",
               "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\cpp\\cpp\\Base.cpp",
               "RelativeDocumentMoniker": "cpp\\Base.cpp",
