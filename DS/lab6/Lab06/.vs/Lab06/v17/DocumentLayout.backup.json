@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE7D977-25C7-4FD0-984E-A93B29797877}|Lab06.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-3\\Lab06_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE7D977-25C7-4FD0-984E-A93B29797877}|Lab06.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-2\\Lab06_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE7D977-25C7-4FD0-984E-A93B29797877}|Lab06.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-2\\UnsortedType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE7D977-25C7-4FD0-984E-A93B29797877}|Lab06.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-1\\DoubleSortedType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE7D977-25C7-4FD0-984E-A93B29797877}|Lab06.vcxproj|C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-1\\Lab06_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnsortedType.h",
+              "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-2\\UnsortedType.h",
+              "RelativeDocumentMoniker": "..\\Lab06-2\\UnsortedType.h",
+              "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-2\\UnsortedType.h",
+              "RelativeToolTip": "..\\Lab06-2\\UnsortedType.h",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAPIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T04:40:54.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab06_3.cpp",
+              "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-3\\Lab06_3.cpp",
+              "RelativeDocumentMoniker": "..\\Lab06-3\\Lab06_3.cpp",
+              "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-3\\Lab06_3.cpp*",
+              "RelativeToolTip": "..\\Lab06-3\\Lab06_3.cpp*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T04:37:46.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoubleSortedType.h",
+              "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-1\\DoubleSortedType.h",
+              "RelativeDocumentMoniker": "..\\Lab06-1\\DoubleSortedType.h",
+              "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-1\\DoubleSortedType.h",
+              "RelativeToolTip": "..\\Lab06-1\\DoubleSortedType.h",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAAACUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T04:30:10.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab06_1.cpp",
+              "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-1\\Lab06_1.cpp",
+              "RelativeDocumentMoniker": "..\\Lab06-1\\Lab06_1.cpp",
+              "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-1\\Lab06_1.cpp",
+              "RelativeToolTip": "..\\Lab06-1\\Lab06_1.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T04:30:06.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab06_2.cpp",
+              "DocumentMoniker": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-2\\Lab06_2.cpp",
+              "RelativeDocumentMoniker": "..\\Lab06-2\\Lab06_2.cpp",
+              "ToolTip": "C:\\Users\\kth00\\Documents\\GitHub\\Algorithm\\DS\\lab6\\Lab06-2\\Lab06_2.cpp",
+              "RelativeToolTip": "..\\Lab06-2\\Lab06_2.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T04:29:38.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
