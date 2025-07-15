@@ -1,3 +1,8 @@
-﻿  소스.cpp
-C:\Users\kth00\Documents\GitHub\Algorithm\BaaaaaaaarkingDog\0x08\0x08\소스.cpp(69,22): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
-  0x08.vcxproj -> C:\Users\kth00\Documents\GitHub\Algorithm\BaaaaaaaarkingDog\0x08\x64\Debug\0x08.exe
+﻿  2504.cpp
+C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x08\0x08\2504.cpp(42,52): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x08\0x08\2504.cpp(55,52): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x08\0x08\2504.cpp(22,9): warning C4101: 'calc3' :참조되지 않은 지역 변수입니다.
+C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x08\0x08\2504.cpp(21,9): warning C4101: 'calc2' :참조되지 않은 지역 변수입니다.
+  0x08.vcxproj -> C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x08\x64\Debug\0x08.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
