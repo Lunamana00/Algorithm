@@ -1,5 +1,6 @@
-﻿  7569.cpp
-C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x09\0x09\7569.cpp(66,20): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  5427.cpp
+C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x09\0x09\5427.cpp(29,12): warning C4101: 'h' :참조되지 않은 지역 변수입니다.
+C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x09\0x09\5427.cpp(29,9): warning C4101: 'w' :참조되지 않은 지역 변수입니다.
   0x09.vcxproj -> C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x09\x64\Debug\0x09.exe
   'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
   배치 파일이 아닙니다.
