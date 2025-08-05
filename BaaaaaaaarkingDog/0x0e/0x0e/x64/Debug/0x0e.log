@@ -1,0 +1,5 @@
+﻿  11652.cpp
+C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x0e\11652.cpp(26,23): warning C4293: '<<': 시프트 횟수가 음수이거나 너무 큽니다. 정의되지 않은 동작입니다.
+  0x0e.vcxproj -> C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x0e\x64\Debug\0x0e.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
