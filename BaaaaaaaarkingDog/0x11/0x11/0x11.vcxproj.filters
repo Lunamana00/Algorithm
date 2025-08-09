@@ -24,13 +24,14 @@
     <ClCompile Include="12865.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\..\..\문서\카카오톡 받은 파일\Lab04_2_3.cpp">
+    <ClCompile Include="11501.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\..\..\문서\카카오톡 받은 파일\QueueType.h">
-      <Filter>리소스 파일</Filter>
-    </ClInclude>
+    <ClCompile Include="2457.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1744.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
