@@ -1,6 +1,2 @@
-﻿  5427.cpp
-C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x09\0x09\5427.cpp(29,12): warning C4101: 'h' :참조되지 않은 지역 변수입니다.
-C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x09\0x09\5427.cpp(29,9): warning C4101: 'w' :참조되지 않은 지역 변수입니다.
-  0x09.vcxproj -> C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x09\x64\Debug\0x09.exe
-  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
-  배치 파일이 아닙니다.
+﻿  2667.cpp
+C:\Users\kth00\OneDrive\Desktop\KTH\Project\Algorithm\BaaaaaaaarkingDog\0x09\0x09\2667.cpp(18,12): error C1075: '{': 일치하는 토큰을 찾을 수 없습니다.

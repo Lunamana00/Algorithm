@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\2667.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|solutionrelative:0x09\\2667.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\2583.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|solutionrelative:0x09\\2583.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\2178.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|solutionrelative:0x09\\2178.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\4179.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|solutionrelative:0x09\\4179.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\5427.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|solutionrelative:0x09\\5427.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -21,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|solutionrelative:0x09\\7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\4179.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7E2F37FD-774D-429F-B853-22A0FC5EE32F}|0x09\\0x09.vcxproj|solutionrelative:0x09\\4179.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +51,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "2667.cpp",
+              "DocumentMoniker": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\2667.cpp",
+              "RelativeDocumentMoniker": "0x09\\2667.cpp",
+              "ToolTip": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\2667.cpp",
+              "RelativeToolTip": "0x09\\2667.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-14T17:45:36.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2178.cpp",
+              "DocumentMoniker": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\2178.cpp",
+              "RelativeDocumentMoniker": "0x09\\2178.cpp",
+              "ToolTip": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\2178.cpp",
+              "RelativeToolTip": "0x09\\2178.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-14T16:36:57.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2583.cpp",
+              "DocumentMoniker": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\2583.cpp",
+              "RelativeDocumentMoniker": "0x09\\2583.cpp",
+              "ToolTip": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\2583.cpp",
+              "RelativeToolTip": "0x09\\2583.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-14T16:36:52.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "5427.cpp",
               "DocumentMoniker": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\5427.cpp",
               "RelativeDocumentMoniker": "0x09\\5427.cpp",
               "ToolTip": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\5427.cpp",
               "RelativeToolTip": "0x09\\5427.cpp",
-              "ViewState": "AgIAADYAAAAAAAAAAAAUwJUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-19T11:05:25.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "7562.cpp",
               "DocumentMoniker": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\7562.cpp",
               "RelativeDocumentMoniker": "0x09\\7562.cpp",
@@ -63,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "7569.cpp",
               "DocumentMoniker": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\7569.cpp",
               "RelativeDocumentMoniker": "0x09\\7569.cpp",
@@ -75,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "10026.cpp",
               "DocumentMoniker": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\10026.cpp",
               "RelativeDocumentMoniker": "0x09\\10026.cpp",
@@ -87,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "7576.cpp",
               "DocumentMoniker": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\7576.cpp",
               "RelativeDocumentMoniker": "0x09\\7576.cpp",
@@ -99,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "4179.cpp",
               "DocumentMoniker": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x09\\0x09\\4179.cpp",
               "RelativeDocumentMoniker": "0x09\\4179.cpp",
@@ -107,7 +158,8 @@
               "RelativeToolTip": "0x09\\4179.cpp",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-25T13:45:51.788Z"
+              "WhenOpened": "2025-03-25T13:45:51.788Z",
+              "EditorCaption": ""
             }
           ]
         }
