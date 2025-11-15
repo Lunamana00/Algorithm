@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x10\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2DA8F5BF-1909-461C-B6D6-1EA3DD7FB1AF}|0x10\\0x10.vcxproj|C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x10\\0x10\\14956.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DA8F5BF-1909-461C-B6D6-1EA3DD7FB1AF}|0x10\\0x10.vcxproj|solutionrelative:0x10\\14956.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2DA8F5BF-1909-461C-B6D6-1EA3DD7FB1AF}|0x10\\0x10.vcxproj|C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x10\\0x10\\2193.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2DA8F5BF-1909-461C-B6D6-1EA3DD7FB1AF}|0x10\\0x10.vcxproj|solutionrelative:0x10\\2193.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA8F5BF-1909-461C-B6D6-1EA3DD7FB1AF}|0x10\\0x10.vcxproj|C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x10\\0x10\\1149.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DA8F5BF-1909-461C-B6D6-1EA3DD7FB1AF}|0x10\\0x10.vcxproj|solutionrelative:0x10\\1149.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1149.cpp",
+              "DocumentMoniker": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x10\\0x10\\1149.cpp",
+              "RelativeDocumentMoniker": "0x10\\1149.cpp",
+              "ToolTip": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x10\\0x10\\1149.cpp",
+              "RelativeToolTip": "0x10\\1149.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T09:29:58.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "14956.cpp",
+              "DocumentMoniker": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x10\\0x10\\14956.cpp",
+              "RelativeDocumentMoniker": "0x10\\14956.cpp",
+              "ToolTip": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x10\\0x10\\14956.cpp",
+              "RelativeToolTip": "0x10\\14956.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T09:29:02.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "2193.cpp",
               "DocumentMoniker": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x10\\0x10\\2193.cpp",
               "RelativeDocumentMoniker": "0x10\\2193.cpp",
               "ToolTip": "C:\\Users\\kth00\\OneDrive\\Desktop\\KTH\\Project\\Algorithm\\BaaaaaaaarkingDog\\0x10\\0x10\\2193.cpp",
               "RelativeToolTip": "0x10\\2193.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-08T15:49:15.049Z",
               "EditorCaption": ""
